@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "858926763659",
+    "firebase_url": "https://phoneverify-b9b8e.firebaseio.com",
+    "project_id": "phoneverify-b9b8e",
+    "storage_bucket": "phoneverify-b9b8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858926763659:android:294bda735edf07ad",
+        "android_client_info": {
+          "package_name": "com.example.abhishek.phoneverify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858926763659-4j8ujsj1edefdnp9magfm8qufm2q82b2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abhishek.phoneverify",
+            "certificate_hash": "7b9aafbe6dca781e530b5fb2e4d0b91e4266dc1e"
+          }
+        },
+        {
+          "client_id": "858926763659-d327ff0jn62gmt4u5nusf6i6ocrts7as.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADJ4mN8u8NZrBvT5TJVHtBSTpD7fcyIiQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858926763659-d327ff0jn62gmt4u5nusf6i6ocrts7as.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
